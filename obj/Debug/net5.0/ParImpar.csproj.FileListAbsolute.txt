@@ -1,0 +1,16 @@
+C:\Users\Vitoria\Documents\decisao\ParImpar\bin\Debug\net5.0\ParImpar.exe
+C:\Users\Vitoria\Documents\decisao\ParImpar\bin\Debug\net5.0\ParImpar.deps.json
+C:\Users\Vitoria\Documents\decisao\ParImpar\bin\Debug\net5.0\ParImpar.runtimeconfig.json
+C:\Users\Vitoria\Documents\decisao\ParImpar\bin\Debug\net5.0\ParImpar.runtimeconfig.dev.json
+C:\Users\Vitoria\Documents\decisao\ParImpar\bin\Debug\net5.0\ParImpar.dll
+C:\Users\Vitoria\Documents\decisao\ParImpar\bin\Debug\net5.0\ref\ParImpar.dll
+C:\Users\Vitoria\Documents\decisao\ParImpar\bin\Debug\net5.0\ParImpar.pdb
+C:\Users\Vitoria\Documents\decisao\ParImpar\obj\Debug\net5.0\ParImpar.csproj.AssemblyReference.cache
+C:\Users\Vitoria\Documents\decisao\ParImpar\obj\Debug\net5.0\ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria\Documents\decisao\ParImpar\obj\Debug\net5.0\ParImpar.AssemblyInfoInputs.cache
+C:\Users\Vitoria\Documents\decisao\ParImpar\obj\Debug\net5.0\ParImpar.AssemblyInfo.cs
+C:\Users\Vitoria\Documents\decisao\ParImpar\obj\Debug\net5.0\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria\Documents\decisao\ParImpar\obj\Debug\net5.0\ParImpar.dll
+C:\Users\Vitoria\Documents\decisao\ParImpar\obj\Debug\net5.0\ref\ParImpar.dll
+C:\Users\Vitoria\Documents\decisao\ParImpar\obj\Debug\net5.0\ParImpar.pdb
+C:\Users\Vitoria\Documents\decisao\ParImpar\obj\Debug\net5.0\ParImpar.genruntimeconfig.cache
